@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Effective teamwork depends on continuous feedback and shared understanding.
+=======
+Collaboration requires clear communication and well-defined responsibilities.
+>>>>>>> bc0c0a52609057c25c56268aab52a0213d9c8a2b
 
 Collaboration in this project is intentionally simple so that the focus remains on learning version control practices. Contributors are encouraged to make small, focused changes and to explain their reasoning clearly in commit messages and pull requests.
 
